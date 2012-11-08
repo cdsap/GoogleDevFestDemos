@@ -30,11 +30,14 @@ public final class R {
         public static final int dsl_rescan=0x7f060009;
         public static final int dsl_stb_list=0x7f060007;
         public static final int header_text=0x7f060005;
+        public static final int hit=0x7f06000e;
         public static final int manual_ip_entry=0x7f06000c;
         public static final int manual_ip_help=0x7f06000d;
         public static final int manual_ip_layout=0x7f06000b;
-        public static final int pairing_layout=0x7f06000e;
-        public static final int pairing_pin_entry=0x7f06000f;
+        public static final int newgame=0x7f060010;
+        public static final int pairing_layout=0x7f060011;
+        public static final int pairing_pin_entry=0x7f060012;
+        public static final int stand=0x7f06000f;
     }
     public static final class integer {
         public static final int broadcast_timeout=0x7f040005;
