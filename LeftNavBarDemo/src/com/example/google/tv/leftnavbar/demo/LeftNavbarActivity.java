@@ -15,10 +15,8 @@
  */
 
 package com.example.google.tv.leftnavbar.demo;
-
-import com.example.google.tv.leftnavbar.LeftNavBar;
+ import com.example.google.tv.leftnavbar.LeftNavBar;
 import com.example.google.tv.leftnavbar.LeftNavBarService;
-import com.example.google.tv.leftnavbar.R;
 
 import android.app.ActionBar;
 import android.app.Activity;
@@ -63,7 +61,7 @@ public class LeftNavbarActivity extends BaseActivity {
     private boolean mHasShowAlwaysItems;
     private boolean mHasCustomTabs;
     private LeftNavBar mLeftNavBar;
-
+ 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -290,6 +288,7 @@ public class LeftNavbarActivity extends BaseActivity {
 
     private void setupButtons() {
         final ActionBar bar = getLeftNavBar();
+        flipOption(LeftNavBar.DISPLAY_AUTO_EXPAND);
         findViewById(R.id.button_home_show).setOnClickListener(new View.OnClickListener() {
 
             @Override
