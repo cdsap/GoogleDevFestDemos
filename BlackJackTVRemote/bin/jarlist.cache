@@ -1,0 +1,11 @@
+# cache for current jar dependecy. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1352400181000 177501 bbb939d5c1c588cc2ef7b70ab937634ecaf9fa1f /Users/portatil/GoogleDevFestDemos/BlackJackTVRemote/libs/polo.jar
+1352400180000 177501 bbb939d5c1c588cc2ef7b70ab937634ecaf9fa1f /Users/portatil/GoogleDevFestDemos/AnymoteLibrary/libs/polo.jar
+1352400180000 323737 daa787c88fd14e6325611b261027baa79f36a881 /Users/portatil/GoogleDevFestDemos/AnymoteLibrary/libs/protobuf-java-2.2.0-lite.jar
+1352400181000 323737 daa787c88fd14e6325611b261027baa79f36a881 /Users/portatil/GoogleDevFestDemos/BlackJackTVRemote/libs/protobuf-java-2.2.0-lite.jar
+1352400181000 83013 c63211706332ab2007579af16b7ee7864f19e82b /Users/portatil/GoogleDevFestDemos/BlackJackTVRemote/libs/anymote.jar
+1352400180000 83013 c63211706332ab2007579af16b7ee7864f19e82b /Users/portatil/GoogleDevFestDemos/AnymoteLibrary/libs/anymote.jar
+1352400181000 1633614 32e4ee42c3c85ce24aa01ff576c295ddf38f3524 /Users/portatil/GoogleDevFestDemos/BlackJackTVRemote/libs/bcprov-jdk15-143.jar
+1352400180000 1633614 32e4ee42c3c85ce24aa01ff576c295ddf38f3524 /Users/portatil/GoogleDevFestDemos/AnymoteLibrary/libs/bcprov-jdk15-143.jar
